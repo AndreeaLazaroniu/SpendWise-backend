@@ -1,0 +1,15 @@
+C:\Users\UsEr\source\repos\SpendWise\SpendWise.Business\bin\Debug\net8.0\SpendWise.Business.deps.json
+C:\Users\UsEr\source\repos\SpendWise\SpendWise.Business\bin\Debug\net8.0\SpendWise.Business.dll
+C:\Users\UsEr\source\repos\SpendWise\SpendWise.Business\bin\Debug\net8.0\SpendWise.Business.pdb
+C:\Users\UsEr\source\repos\SpendWise\SpendWise.Business\bin\Debug\net8.0\SpendWise.DataAccess.dll
+C:\Users\UsEr\source\repos\SpendWise\SpendWise.Business\bin\Debug\net8.0\SpendWise.DataAccess.pdb
+C:\Users\UsEr\source\repos\SpendWise\SpendWise.Business\obj\Debug\net8.0\SpendWise.Business.csproj.AssemblyReference.cache
+C:\Users\UsEr\source\repos\SpendWise\SpendWise.Business\obj\Debug\net8.0\SpendWise.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UsEr\source\repos\SpendWise\SpendWise.Business\obj\Debug\net8.0\SpendWise.Business.AssemblyInfoInputs.cache
+C:\Users\UsEr\source\repos\SpendWise\SpendWise.Business\obj\Debug\net8.0\SpendWise.Business.AssemblyInfo.cs
+C:\Users\UsEr\source\repos\SpendWise\SpendWise.Business\obj\Debug\net8.0\SpendWise.Business.csproj.CoreCompileInputs.cache
+C:\Users\UsEr\source\repos\SpendWise\SpendWise.Business\obj\Debug\net8.0\SpendWise.Business.dll
+C:\Users\UsEr\source\repos\SpendWise\SpendWise.Business\obj\Debug\net8.0\refint\SpendWise.Business.dll
+C:\Users\UsEr\source\repos\SpendWise\SpendWise.Business\obj\Debug\net8.0\SpendWise.Business.pdb
+C:\Users\UsEr\source\repos\SpendWise\SpendWise.Business\obj\Debug\net8.0\ref\SpendWise.Business.dll
+C:\Users\UsEr\source\repos\SpendWise\SpendWise.Business\obj\Debug\net8.0\SpendWis.ACAA48B3.Up2Date

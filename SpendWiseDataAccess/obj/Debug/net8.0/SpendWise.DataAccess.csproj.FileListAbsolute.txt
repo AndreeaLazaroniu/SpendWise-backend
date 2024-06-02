@@ -1,0 +1,14 @@
+C:\Users\UsEr\source\repos\SpendWise\SpendWiseDataAccess\bin\Debug\net8.0\SpendWise.DataAccess.deps.json
+C:\Users\UsEr\source\repos\SpendWise\SpendWiseDataAccess\bin\Debug\net8.0\SpendWise.DataAccess.runtimeconfig.json
+C:\Users\UsEr\source\repos\SpendWise\SpendWiseDataAccess\bin\Debug\net8.0\SpendWise.DataAccess.dll
+C:\Users\UsEr\source\repos\SpendWise\SpendWiseDataAccess\bin\Debug\net8.0\SpendWise.DataAccess.pdb
+C:\Users\UsEr\source\repos\SpendWise\SpendWiseDataAccess\obj\Debug\net8.0\SpendWise.DataAccess.csproj.AssemblyReference.cache
+C:\Users\UsEr\source\repos\SpendWise\SpendWiseDataAccess\obj\Debug\net8.0\SpendWise.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UsEr\source\repos\SpendWise\SpendWiseDataAccess\obj\Debug\net8.0\SpendWise.DataAccess.AssemblyInfoInputs.cache
+C:\Users\UsEr\source\repos\SpendWise\SpendWiseDataAccess\obj\Debug\net8.0\SpendWise.DataAccess.AssemblyInfo.cs
+C:\Users\UsEr\source\repos\SpendWise\SpendWiseDataAccess\obj\Debug\net8.0\SpendWise.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\UsEr\source\repos\SpendWise\SpendWiseDataAccess\obj\Debug\net8.0\SpendWise.DataAccess.dll
+C:\Users\UsEr\source\repos\SpendWise\SpendWiseDataAccess\obj\Debug\net8.0\refint\SpendWise.DataAccess.dll
+C:\Users\UsEr\source\repos\SpendWise\SpendWiseDataAccess\obj\Debug\net8.0\SpendWise.DataAccess.pdb
+C:\Users\UsEr\source\repos\SpendWise\SpendWiseDataAccess\obj\Debug\net8.0\SpendWise.DataAccess.genruntimeconfig.cache
+C:\Users\UsEr\source\repos\SpendWise\SpendWiseDataAccess\obj\Debug\net8.0\ref\SpendWise.DataAccess.dll
